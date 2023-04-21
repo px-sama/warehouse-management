@@ -9,7 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 ## Deployment
-The project is deployed using Vercel.
+The project is deployed using [Firebase Hosting](https://warehouse-management-bc1cc.web.app/)
 
 ## Backend
 The project endpoint is connected to the Firebase firestore database
+
