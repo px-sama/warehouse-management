@@ -12,4 +12,4 @@ In the project directory, you can run:
 The project is deployed using Vercel.
 
 ## Backend
-The 
+The project endpoint is connected to the Firebase firestore database
