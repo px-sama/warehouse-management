@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 ## Deployment
@@ -16,5 +16,4 @@ The project endpoint is connected to the Firebase firestore database
 
 ## Database Demo
 
-![ScreenShot](https://raw.github.com/px-sama/warehouse-management
-/main/database-demo.png)
+![Alt text](./database-demo.png)
