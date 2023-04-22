@@ -14,3 +14,7 @@ The project is deployed using [Firebase Hosting](https://warehouse-management-bc
 ## Backend
 The project endpoint is connected to the Firebase firestore database
 
+## Database Demo
+
+![ScreenShot](https://raw.github.com/px-sama/warehouse-management
+/main/database-demo.png)
